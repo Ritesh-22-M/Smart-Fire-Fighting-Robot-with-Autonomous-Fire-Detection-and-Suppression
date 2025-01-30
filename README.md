@@ -77,13 +77,15 @@ Power Management – Uses battery-powered operation for portability and remote d
 
 ## Project Team
 
-Ritesh Mohanty (riteshmohanty2003@gmail.com)
+### Ritesh Mohanty 
+(riteshmohanty2003@gmail.com)
 
 Linkedln - https://www.linkedin.com/in/ritesh-mohanty-65b614210/
 
 GitHub - https://github.com/Ritesh-22-M
 
-Jyotismita Nath (joytismitanath2003@gmail.com)
+### Jyotismita Nath 
+(joytismitanath2003@gmail.com)
 
 Linkedln - https://www.linkedin.com/in/jyotismita-nath-926541316/
 
