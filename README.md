@@ -2,7 +2,7 @@
 
 # Smart-Fire-Fighting-Robot-with-Autonomous-Fire-Detection-and-Suppression 🔥🤖
 
-## watchProject Video
+## Project Video
 https://youtu.be/G1_n4HE8crg?si=7wYdBD3MsU3btkVd
 
 ## Project Preview
@@ -75,4 +75,12 @@ Power Management – Uses battery-powered operation for portability and remote d
 
 ![IMG-20241026-WA0011](https://github.com/user-attachments/assets/597b9cff-002f-44c9-ba40-939c1c3b8fd2)
 
+## Project Team
 
+Ritesh Mohanty (riteshmohanty2003@gmail.com)
+Linkedln - https://www.linkedin.com/in/ritesh-mohanty-65b614210/
+GitHub - https://github.com/Ritesh-22-M
+
+Jyotismita Nath (joytismitanath2003@gmail.com)
+Linkedln - https://www.linkedin.com/in/jyotismita-nath-926541316/
+GitHub - https://github.com/Jyotismita-15
