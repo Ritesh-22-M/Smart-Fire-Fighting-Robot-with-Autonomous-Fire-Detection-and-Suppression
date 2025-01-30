@@ -2,7 +2,7 @@
 
 # Smart-Fire-Fighting-Robot-with-Autonomous-Fire-Detection-and-Suppression 🔥🤖
 
-## Project Video
+## watchProject Video
 https://youtu.be/G1_n4HE8crg?si=7wYdBD3MsU3btkVd
 
 ## Project Preview
